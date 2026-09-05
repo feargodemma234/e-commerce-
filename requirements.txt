@@ -1,1 +1,5 @@
 streamlit
+streamlit-cookies-manager
+gspread
+oauth2client
+pandas
